@@ -1,39 +1,18 @@
-# book-nuxt
+## Build Setup
 
-## Project setup
-```
-npm install
-```
+``` bash
+# install dependencies
+$ npm install # Or yarn install
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+# serve with hot reload at localhost:3000
+$ npm run dev
 
-### Compiles and minifies for production
-```
-npm run build
-```
+# build for production and launch server
+$ npm run build
+$ npm start
 
-### Run your tests
-```
-npm run test
+# generate static project
+$ npm run generate
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Run your end-to-end tests
-```
-npm run test:e2e
-```
-
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
