@@ -2,7 +2,7 @@
   <section class="container">
     <div>
       <app-logo/>
-      <h1 class="title">
+      <h1 class="mb-4 text-purple">
         Welcome to your Nuxt.js experience!
       </h1>
       <h2 class="subtitle">
